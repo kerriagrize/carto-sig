@@ -6,13 +6,13 @@ _Cours du Bachelor GSE 1ère année, semestre d'automne 2017._
 
 --
 
-__Enseignant:__ Christian Kaiser, Géopolis 3610, [christian.kaiser@unil.ch](mailto:christian.kaiser@unil.ch)
+__Enseignant:__ Christian Kaiser, Géopolis 3610
 
 __Assistants:__
 
-- Raphaël Bubloz, [raphael.bubloz@unil.ch](raphael.bubloz@unil.ch)
-- Kerria Grize, [kerria.grize@unil.ch](kerria.grize@unil.ch)
-- Ludivine Stofer, [ludivine.stofer@unil.ch](ludivine.stofer@unil.ch)
+- Raphaël Bubloz
+- Kerria Grize
+- Ludivine Stofer
 
 __Horaire du cours:__ mercredi 15h15 - 17h00
 
