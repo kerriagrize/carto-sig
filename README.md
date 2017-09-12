@@ -1,10 +1,10 @@
 # Cartographie & SIG
 
---
+---
 
 _Cours du Bachelor GSE 1ère année, semestre d'automne 2017._
 
---
+---
 
 __Enseignant:__ Christian Kaiser, Géopolis 3610
 
@@ -18,11 +18,11 @@ __Horaire du cours:__ mercredi 15h15 - 17h00
 
 __Salle:__ Amphipôle D
 
-__Documents de cours:__ [https://github.com/christiankaiser/carto-sig](https://github.com/christiankaiser/carto-sig)
+__Documents de cours:__ [http://moodle.unil.ch/course/view.php?id=9086](http://moodle.unil.ch/course/view.php?id=9086)
 
 __Q&A / Discussions / Annonces__: [carto-sig.slack.com](https://carto-sig.slack.com). Utilisez [ce lien](https://join.slack.com/t/carto-sig/signup) pour joindre le forum (il faut utiliser votre adresse UNIL pour pouvoir joindre).
 
---
+---
 
 ## 1. Objectif
 Ce cours de cartographie traite des principes de base de la représentation d’informations spatialement localisées. Il donne également quelques notions de base sur les Systèmes d’Information Géographique (SIG). Il aborde les différentes modalités de l’information géométrique et thématique et le langage graphique utile pour sa communication en cartes. Il s’inscrit dans les changement techniques apportés par l’informatisation de la cartographie en mettant l’accent sur les règles générales de l’utilisation des ressources fuselles spécifiques pour l’élaboration de cartes thématiques. Le cours donne également, à travers d’exercices pratiques, les bases nécessaires à l’élaboration d’une carte thématique simple.## 2. Contenu
