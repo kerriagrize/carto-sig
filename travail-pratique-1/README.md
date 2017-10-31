@@ -22,7 +22,9 @@ Les données statistiques de base se trouvent dans le fichier Excel fourni ([irl
 
 Le calcul des indicateurs est expliqué dans l'exercice 5.
 
-Le fichier [irl-template-carte.ai](irl-template-carte.ai) contient quelques éléments de base qui devront être adaptés et intégrés dans la carte finale.
+L'exercice 7 montre comment dessiner les symboles proportionnels sur la carte, et rappelle encore une fois les principes de la discrétisation.
+
+Le fichier [irl-template-carte.ai](irl-template-carte.ai) contient quelques éléments de base qui devront être adaptés et intégrés dans la carte finale. Prenez tous les éléments (sauf la carte évidemment) qui se trouvent dans le template pour les adapter et intégrer dans votre carte. Choisissez la palette des couleurs sur le site [colorbrewer2.org](http://colorbrewer2.org).
 
 
 ## 3. Calendrier
@@ -33,7 +35,7 @@ Le calendrier ci-dessous définit les différentes étapes du travail telles que
 |:------:|------------------|
 | 11.10. | Explications travail pratique.<br>Préparation du fond de carte. |
 | 18.10. | Sélection des variables à cartographier.<br>Calcul de l'indicateur.<br>Mise en classes. |
-| 1.11.  | Création des symboles proportionnels.<br>Coloriage des symboles. |
+| 1.11.  | Création des symboles proportionnels.<br>Coloriage des symboles.<br>Ajout des éléments de décoration depuis le template. |
 | 15.11. | Rendu du travail pratique 1 (sur Moodle).
 
 
