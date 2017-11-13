@@ -53,7 +53,7 @@ Semaine  | Date  | Thématique du cours | Exercice
 6        | 25.10. | __Le langage cartographique__<br> Variables visuelles. | __Ex. 6:__  Exercice de sémiologie graphique.
 7        | 1.11.  | __Techniques de représentation cartographique__<br>Types de cartes thématiques.  | __Ex. 7:__  Exercice de représentation cartographique. Créer une carte choroplèthe et une carte en symboles proportionnels.
 8        | 8.11.  | Pas de cours (inter-semestre)
-9        | 15.11. | __Légende cartographique et les couleurs__<br>Légende juste et informative. Modèles de couleurs (CMYK, RGB, HSL etc.). Sélection d’une palette de couleurs. | __Ex. 8:__  Créer une légende pour carte thématique.<br>__Délai de rendu du travail pratique 1__<br>__Explications travail pratique 2__
+9        | 15.11. | __Légende cartographique et les couleurs__<br>Légende juste et informative. Modèles de couleurs (CMYK, RGB, HSL etc.). Sélection d’une palette de couleurs. | __Délai de rendu du travail pratique 1__<br>__Explications travail pratique 2__
 10       | 22.11. | __Mise en scène__<br>Éléments d’habillage, communication efficace, surcharge d’information, distraction visuelle. | __Ex. 9:__  Mise en forme d’une carte thématique.
 11       | 29.11. | __Systèmes d’information géographique__<br>Fonctions de base d’un SIG. Comparaison avec la cartographie. | __Ex. 10:__ Construction d'un fond de carte avec le SIG.
 12       | 6.12.  | __Sources de données spatiales__ | 
