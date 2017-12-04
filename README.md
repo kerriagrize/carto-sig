@@ -55,7 +55,7 @@ Semaine  | Date  | Thématique du cours | Exercice
 8        | 8.11.  | Pas de cours (inter-semestre)
 9        | 15.11. | -- | __Délai de rendu du travail pratique 1__<br>__Explications travail pratique 2__
 10       | 22.11. | __Légende cartographique et les couleurs__<br>Légende juste et informative. Modèles de couleurs (CMYK, RGB, HSL etc.). Sélection d’une palette de couleurs. | --
-11       | 29.11. | __Mise en scène__<br>Éléments d’habillage, communication efficace, surcharge d’information, distraction visuelle. | __Ex. 9:__  Mise en forme d’une carte thématique.
+11       | 29.11. | __Mise en scène__<br>Éléments d’habillage, communication efficace, surcharge d’information, distraction visuelle. | --
 12       | 6.12.  | __Systèmes d’information géographique__<br>Fonctions de base d’un SIG. Comparaison avec la cartographie. | __Ex. 10:__ Construction d'un fond de carte avec le SIG.
 13       | 13.12. | __Contrôle écrit__ | 
 14       | 20.12. |  | __Délai de rendu travail pratique 2__
