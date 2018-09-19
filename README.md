@@ -10,7 +10,9 @@ __Enseignant:__ Christian Kaiser, Géopolis 3610
 
 __Assistants:__
 
-- TBD
+- Julien Corminboeuf
+- Kerria Grize
+- Ludivine Stofer
 
 __Horaire du cours:__ mercredi 15h15 - 17h00
 
