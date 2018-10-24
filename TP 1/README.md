@@ -41,5 +41,5 @@ Le calendrier ci-dessous définit les différentes étapes du travail telles que
 
 ## 4. Rendu
 
-Le rendu doit se faire sur Moodle, sous forme d'un fichier Illustrator (format .ai). Assurez-vous que votre carte est bien organisée en calques, et que vous supprimez tous les calques qui ne doivent pas être visibles.
+Le rendu doit se faire sur Moodle, sous forme d'un fichier Illustrator (format .ai) et d'un fichier PDF (.pdf). Assurez-vous que votre carte est bien organisée en calques, et que vous supprimez tous les calques qui ne doivent pas être visibles.
  
